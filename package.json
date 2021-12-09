@@ -169,5 +169,8 @@
       "/node_modules/(?!matrix-js-sdk).+$",
       "/node_modules/(?!matrix-react-sdk).+$"
     ]
+  },
+  "engines": {
+    "node": "16"
   }
 }
